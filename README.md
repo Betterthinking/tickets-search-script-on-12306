@@ -11,6 +11,7 @@
 3.	安装了需求的包：requests, docopt, prettytable, colorama, setuptools(均基于pip3安装)
 
 项目安装说明：
+
 	在Windows环境下进入命令行输入环境，进入项目文件中:
 		cd master-dir\\"tickets search"
 
